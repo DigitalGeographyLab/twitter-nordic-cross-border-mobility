@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4839410.svg)](https://doi.org/10.5281/zenodo.4839410)
 # twitter-nordic-cross-border-mobility
 Processing and analysis steps used in MSc thesis "Understanding Functional Cross-border Regions from Twitter Data in the Nordics". 
 
